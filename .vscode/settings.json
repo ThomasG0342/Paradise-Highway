@@ -1,8 +1,3 @@
 {
-  "liveServer.settings.ignoreFiles": [
-    "**/backend/**",
-    "**/*.db",
-    "**/*.sqlite",
-    "**/*-journal"
-  ]
+  "liveServer.settings.ignoreFiles": ["**/backend/**", "**/*.db", "**/*.sqlite", "**/*-journal"]
 }
